@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package sof203_sd18322_block2_su23;
+package B1_OverviewOOP;
 
 /**
  *
  * @author hangnt
  */
-public class SOF203_SD18322_BLOCK2_SU23 {
+public class SOF203_SD18325_BLOCK2_SU23 {
 
     /**
      * @param args the command line arguments
