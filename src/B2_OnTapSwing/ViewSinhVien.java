@@ -211,6 +211,10 @@ public class ViewSinhVien extends javax.swing.JFrame {
         rdNam.setSelected(true);
         cbAn.setSelected(false);
         cbLan.setSelected(false);
+        String soThich ="";
+        if(cbAn.isSelected()){
+            soThich ="Ăn";
+        }
     }//GEN-LAST:event_btnClearActionPerformed
 
     private void btnExitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnExitActionPerformed
