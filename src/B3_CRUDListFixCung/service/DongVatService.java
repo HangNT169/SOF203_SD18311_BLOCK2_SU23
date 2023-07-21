@@ -2,8 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package B3_CRUDListFixCung;
+package B3_CRUDListFixCung.service;
 
+import B3_CRUDListFixCung.DongVat;
 import java.util.ArrayList;
 import java.util.List;
 

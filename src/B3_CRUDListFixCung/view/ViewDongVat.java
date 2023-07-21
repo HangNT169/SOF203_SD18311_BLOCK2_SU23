@@ -2,8 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package B3_CRUDListFixCung;
+package B3_CRUDListFixCung.view;
 
+import B3_CRUDListFixCung.DongVat;
+import B3_CRUDListFixCung.service.DongVatService;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
