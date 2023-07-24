@@ -176,6 +176,9 @@ public class GiangVienService {
 //        for (GiangVien gv : lists) {
 //            System.out.println(gv.toString());
 //        }
+//        GiangVien gv = new GiangVien("Ph12", "aaa", "aaa", 10, 10, true);
+//        System.out.println(new GiangVienService().add(gv));
+        System.out.println(new GiangVienService().delete("HangNT169"));
 //        GiangVien gv = new GiangVienService().getOne("HangNT169");
 //        System.out.println(gv.toString());
     }
